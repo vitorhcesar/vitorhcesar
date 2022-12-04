@@ -1,8 +1,8 @@
-### Olá 👋 Eu sou o Vítor Hugo
-
-
-- 🌱 Estou estudando JavaScript
-- 😄 Pronomes: Ele/dele
+<h1>Olá 👋 Eu sou o Vítor Hugo</h1>
+<ul>
+  <li>🌱 Estou estudando JavaScript</li>
+  <li>😄 Pronomes: Ele/dele</li>
+</ul>
 <div align="center">
   <a href="https://github.com/yondv">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yondv&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
