@@ -20,6 +20,7 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
   -->
+  <img align="right" alt="Vitor-pic" height="150" style="border-radius:50px;" src="https://discord.com/channels/1016337772715462777/1016847257628315730/1049322508232445992">
 </div>
   <h1>Links 👌</h1>
 <div> 
