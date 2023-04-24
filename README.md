@@ -1,6 +1,6 @@
 <h1>Olá 👋 Eu sou o Vítor Hugo</h1>
 <ul>
-  <li>🌱 Estou estudando JavaScript</li>
+  <li>🌱 Estou estudando JavaScript, React, React Three Fiber, Next</li>
   <li>😄 Pronomes: Ele/dele</li>
 </ul>
 <div align="center">
@@ -26,8 +26,6 @@
   <!-- YOUTUBE
   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   -->
-  <a href="https://instagram.com/yonk1ng" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/yondzin" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <!-- DISCORD
  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  -->
