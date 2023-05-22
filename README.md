@@ -1,6 +1,6 @@
 # Olá 👋 Me chamo Vítor Hugo
 <ul>
-  <li>🌱 Estou estudando JavaScript, React, React Three Fiber, Next</li>
+  <li>🌱 Estou estudando JavaScript, TypeScript, React, React Three Fiber, Nextjs</li>
   <li>😄 Pronomes: Ele/dele</li>
 </ul>
 <div align="center">
