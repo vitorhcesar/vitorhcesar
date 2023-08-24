@@ -1,7 +1,7 @@
 # Olá 👋 Me chamo Vítor Hugo
 <ul>
-  <li>🌱 Estou estudando JavaScript, TypeScript, React, React Three Fiber, Nextjs</li>
-  <li>😄 Pronomes: Ele/dele</li>
+  <li>🌱 Estou estudando TypeScript, Nextjs, Sass, Servidores com Express e Banco de Dados.</li>
+  <li>😄 No momento procurando oportunidades!</li>
 </ul>
 <div align="center">
   <a href="https://github.com/yondv">
