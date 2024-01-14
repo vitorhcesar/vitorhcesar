@@ -1,6 +1,6 @@
 # Olá 👋 Me chamo Vítor Hugo
 <ul>
-  <li>🌱 Estou estudando TypeScript, Nextjs, Sass, Servidores com Express e Banco de Dados.</li>
+  <li>🌱 Estou estudando Banco de Dados, Django, IA, Typescript e Python.</li>
   <li>😄 No momento procurando oportunidades!</li>
 </ul>
 <div align="center">
