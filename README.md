@@ -4,9 +4,9 @@
   <li>😄 No momento procurando oportunidades!</li>
 </ul>
 <div align="center">
-  <a href="https://github.com/yondv">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yondv&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yondv&layout=compact&langs_count=7&theme=transparent"/>
+  <a href="https://github.com/vitorhcesar">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorhcesar&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorhcesar&layout=compact&langs_count=7&theme=transparent"/>
 </div>
 <div style="display: inline_block">
   <br>
