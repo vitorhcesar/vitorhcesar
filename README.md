@@ -28,6 +28,7 @@
   <img align="center" alt="Vitor-Python" height="50" width="160" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
   <img align="center" alt="Vitor-Trello" height="50" width="160" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
   <img align="center" alt="Vitor-Windows" height="50" width="180" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img align="center" alt="Vitor-Windows" height="50" width="180" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </div>
   <h1>Contact me 👌</h1>
 <div> 
