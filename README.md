@@ -26,6 +26,7 @@
   <img align="center" alt="Vitor-TypeScript" height="50" width="220" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img align="center" alt="Vitor-JSON" height="50" width="160" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
   <img align="center" alt="Vitor-Python" height="50" width="160" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <img align="center" alt="Vitor-Windows" height="50" width="180" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
   <img align="center" alt="Vitor-Trello" height="50" width="160" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
   <img align="center" alt="Vitor-Windows" height="50" width="180" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img align="center" alt="Vitor-Windows" height="50" width="180" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
