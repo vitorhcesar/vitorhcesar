@@ -42,6 +42,3 @@
  -->
   <a href="https://www.linkedin.com/in/vítor-hugo-tavares-pereira-a99435232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="50" width="200"></a> 
 </div>
-
-![Snake animation](https://github.com/vitorhcesar/vitorhcesar/blob/output/github-contribution-grid-snake.svg)
-
