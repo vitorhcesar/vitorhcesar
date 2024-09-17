@@ -57,7 +57,7 @@
 
 ### Other:
 
-  <div>
+  <div style="padding: 0; margin: 0;">
     <code><img height="30" src="https://img.shields.io/badge/Stripe-0078D6?style=for-the-badge&logo=stripe&logoColor=white"></code>
     <code><img height="30" src="https://img.shields.io/badge/Shadcn/ui-323232?style=for-the-badge&logo=shadcnui&logoColor=white"></code>  
     <code><img height="30" src="https://img.shields.io/badge/Docker-0078D6?style=for-the-badge&logo=docker&logoColor=white"></code>  
