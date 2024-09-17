@@ -62,10 +62,10 @@
     <code><img height="30" src="https://img.shields.io/badge/Shadcn/ui-323232?style=for-the-badge&logo=shadcnui&logoColor=white"></code>  
     <code><img height="30" src="https://img.shields.io/badge/Docker-0078D6?style=for-the-badge&logo=docker&logoColor=white"></code>  
   </div>
+  <br></br>
   <code><img height="30" src="https://img.shields.io/badge/OpenAI-323232?style=for-the-badge&logo=openai&logoColor=white"></code>  
   <code><img height="30" src="https://img.shields.io/badge/Anthropic-323232?style=for-the-badge&logo=anthropic&logoColor=white"></code>  
   <code><img height="30" src="https://img.shields.io/badge/Langchain-323232?style=for-the-badge&logo=langchain&logoColor=white"></code>  
-  <br></br>
 
 ## Contact
 My portfolio.
