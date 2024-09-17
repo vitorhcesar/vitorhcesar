@@ -26,16 +26,11 @@
   <code><img height="30" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code>
   <code><img height="30" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></code>
   <code><img height="30" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"></code>
-  <code><img height="30" src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"></code>
   <code><img height="30" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code>
-  <code><img height="30" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"></code>
   <br></br>
-  <code><img height="30" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"></code>
   <code><img height="30" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"></code>
-  <code><img height="30" src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white"></code>
   <code><img height="30" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></code>
-  <code><img height="30" src="https://img.shields.io/badge/Laravel-FF2C20?style=for-the-badge&logo=Laravel&logoColor=white"></code>
-    <code><img height="30" src="https://img.shields.io/badge/Django-171717?style=for-the-badge&logo=Django&logoColor=white"></code>
+  <code><img height="30" src="https://img.shields.io/badge/Django-171717?style=for-the-badge&logo=Django&logoColor=white"></code>
 
 ### Backend:
 
