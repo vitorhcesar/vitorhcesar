@@ -19,7 +19,7 @@
   <code><img height="30" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"></code>
   <br></br>
   <code><img height="30" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></code>
-  <code><img height="30" src="https://img.shields.io/badge/Markdown-FFD43B?style=for-the-badge&logo=markdown&logoColor=blue"></code>
+  <code><img height="30" src="https://img.shields.io/badge/Markdown-FAFAFA?style=for-the-badge&logo=markdown&logoColor=blue"></code>
 
 ### Frameworks:
 
