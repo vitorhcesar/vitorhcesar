@@ -32,6 +32,8 @@
   <code><img height="30" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></code>
   <code><img height="30" src="https://img.shields.io/badge/Django-171717?style=for-the-badge&logo=Django&logoColor=white"></code>
   <code><img height="30" src="https://img.shields.io/badge/Flask-171717?style=for-the-badge&logo=Flask&logoColor=white"></code>
+  <br></br>
+  <code><img height="30" src="https://img.shields.io/badge/Tauri-171717?style=for-the-badge&logo=Tauri&logoColor=white"></code>
 
 ### Backend:
 
