@@ -35,7 +35,7 @@
   <br></br>
   <code><img height="30" src="https://img.shields.io/badge/Tauri-171717?style=for-the-badge&logo=Tauri&logoColor=white"></code>
   <code><img height="30" src="https://img.shields.io/badge/Electron-171717?style=for-the-badge&logo=Electron&logoColor=white"></code>
-  <code><img height="30" src="https://img.shields.io/badge/Tailwindcss-171717?style=for-the-badge&logo=tailwindcss&logoColor=white"></code>
+  <code><img height="30" src="https://img.shields.io/badge/Tailwindcss-007FFF?style=for-the-badge&logo=tailwindcss&logoColor=white"></code>
 
 ### Backend:
 
