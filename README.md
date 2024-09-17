@@ -54,3 +54,8 @@
   <code><img height="30" src="https://img.shields.io/badge/Mac-000000?style=for-the-badge&logo=MacOS&logoColor=white"></code>  
   -->
   <br></br>
+
+### Other:
+  <code><img height="30" src="https://img.shields.io/badge/Stripe-E95420?style=for-the-badge&logo=stripe&logoColor=white"></code>
+  <code><img height="30" src="https://img.shields.io/badge/Shadcn/ui-0078D6?style=for-the-badge&logo=shadcn&logoColor=white"></code>  
+  <br></br>
