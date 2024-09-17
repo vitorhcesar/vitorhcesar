@@ -46,14 +46,6 @@
   <code><img height="30" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"></code>
   <code><img height="30" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></code>
   <code><img height="30" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></code>
-  
-### OS:
-
-  <code><img height="30" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></code>
-  <code><img height="30" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></code>  
-  <!--
-  <code><img height="30" src="https://img.shields.io/badge/Mac-000000?style=for-the-badge&logo=MacOS&logoColor=white"></code>  
-  -->
 
 ### Other:
 
@@ -64,6 +56,16 @@
   <code><img height="30" src="https://img.shields.io/badge/Anthropic-323232?style=for-the-badge&logo=anthropic&logoColor=white"></code>  
   <code><img height="30" src="https://img.shields.io/badge/Langchain-323232?style=for-the-badge&logo=langchain&logoColor=white"></code>  
   <br></br>
+
+
+### OS:
+
+  <code><img height="30" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></code>
+  <code><img height="30" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></code>  
+  <!--
+  <code><img height="30" src="https://img.shields.io/badge/Mac-000000?style=for-the-badge&logo=MacOS&logoColor=white"></code>  
+  -->
+
 
 ## Contact
 My portfolio.
