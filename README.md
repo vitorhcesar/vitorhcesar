@@ -3,7 +3,7 @@
   <li>📚 Learning native frameworks like React Native (Expo) and Tauri.</li>
   <li>🧑‍💼 Freelancer, AI Enthusiast and Fullstack Developer.</li>
   <li>🔍 Open for dev oportunities!</li>
-  <li>🌎 See my (portfolio)['https://www.google.com'] to contact me!</li>
+  <li>🌎 See my <a href="https://www.google.com">portfolio</a> to contact me!</li>
 </ul>
 <div align="center">
 <!--   <a href="https://github.com/vitorhcesar"> -->
