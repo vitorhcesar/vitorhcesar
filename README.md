@@ -48,6 +48,7 @@
   <code><img height="30" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></code>
   
 ### OS:
+
   <code><img height="30" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></code>
   <code><img height="30" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></code>  
   <!--
@@ -55,6 +56,7 @@
   -->
 
 ### Other:
+
   <code><img height="30" src="https://img.shields.io/badge/Stripe-0078D6?style=for-the-badge&logo=stripe&logoColor=white"></code>
   <code><img height="30" src="https://img.shields.io/badge/Shadcn/ui-323232?style=for-the-badge&logo=shadcnui&logoColor=white"></code>  
   <code><img height="30" src="https://img.shields.io/badge/Docker-0078D6?style=for-the-badge&logo=docker&logoColor=white"></code>  
