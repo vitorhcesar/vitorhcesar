@@ -47,17 +47,6 @@
   <code><img height="30" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></code>
   <code><img height="30" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></code>
 
-### Other:
-
-  <code><img height="30" src="https://img.shields.io/badge/Stripe-0078D6?style=for-the-badge&logo=stripe&logoColor=white"></code>
-  <code><img height="30" src="https://img.shields.io/badge/Shadcn/ui-323232?style=for-the-badge&logo=shadcnui&logoColor=white"></code>  
-  <code><img height="30" src="https://img.shields.io/badge/Docker-0078D6?style=for-the-badge&logo=docker&logoColor=white"></code>  
-  <code><img height="30" src="https://img.shields.io/badge/OpenAI-323232?style=for-the-badge&logo=openai&logoColor=white"></code>  
-  <code><img height="30" src="https://img.shields.io/badge/Anthropic-323232?style=for-the-badge&logo=anthropic&logoColor=white"></code>  
-  <code><img height="30" src="https://img.shields.io/badge/Langchain-323232?style=for-the-badge&logo=langchain&logoColor=white"></code>  
-  <br></br>
-
-
 ### OS:
 
   <code><img height="30" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></code>
@@ -66,6 +55,15 @@
   <code><img height="30" src="https://img.shields.io/badge/Mac-000000?style=for-the-badge&logo=MacOS&logoColor=white"></code>  
   -->
 
+### Other:
+
+  <code><img height="30" src="https://img.shields.io/badge/Stripe-0078D6?style=for-the-badge&logo=stripe&logoColor=white"></code>
+  <code><img height="30" src="https://img.shields.io/badge/Shadcn/ui-323232?style=for-the-badge&logo=shadcnui&logoColor=white"></code>  
+  <code><img height="30" src="https://img.shields.io/badge/Docker-0078D6?style=for-the-badge&logo=docker&logoColor=white"></code>  
+  <br></br>
+  <code><img height="30" src="https://img.shields.io/badge/OpenAI-323232?style=for-the-badge&logo=openai&logoColor=white"></code>  
+  <code><img height="30" src="https://img.shields.io/badge/Anthropic-323232?style=for-the-badge&logo=anthropic&logoColor=white"></code>  
+  <code><img height="30" src="https://img.shields.io/badge/Langchain-323232?style=for-the-badge&logo=langchain&logoColor=white"></code>  
 
 ## Contact
 My portfolio.
