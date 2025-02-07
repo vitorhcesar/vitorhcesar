@@ -1,6 +1,6 @@
 # Hi There 👋 I'm Vítor Hugo
 <ul>
-  <li>📚 Learning native frameworks like React Native (Expo) and Tauri.</li>
+  <li>📚 Reading "Clean Code" and "Clean Architecture".</li>
   <li>🧑‍💼 Freelancer, AI Enthusiast and Fullstack Developer.</li>
   <li>🔍 Open for dev oportunities!</li>
   <li>🌎 See my <a href="https://portfolio-seven-pi-46.vercel.app/" target="_blank">portfolio</a> to contact me!</li>
