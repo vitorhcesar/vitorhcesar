@@ -1,7 +1,7 @@
 # Hi There 👋 I'm Vítor Hugo
 <ul>
   <li>📚 Reading "Clean Code" and "Clean Architecture".</li>
-  <li>🧑‍💼 Developer at Astrofy, Freelancer and AI Enthusiast!</li>
+  <li>🧑‍💼 Developer, Freelancer and AI Enthusiast!</li>
   <li>🔍 Open for dev oportunities!</li>
   <li>🌎 See my <a href="https://portfolio-seven-pi-46.vercel.app/" target="_blank">portfolio</a> to contact me!</li>
 </ul>
