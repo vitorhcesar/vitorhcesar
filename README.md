@@ -3,7 +3,7 @@
   <li>📚 Reading "Clean Code" and "Clean Architecture".</li>
   <li>🧑‍💼 Developer, Freelancer and AI Enthusiast!</li>
   <li>🔍 Open for dev oportunities!</li>
-  <li>🌎 See my <a href="https://portfolio-seven-pi-46.vercel.app/" target="_blank">portfolio</a> to contact me!</li>
+  <li>🌎 See my <a href="https://portfolio.vitorhcesar.com.br/" target="_blank">portfolio</a> to contact me!</li>
 </ul>
 <div align="center">
 <!--   <a href="https://github.com/vitorhcesar"> -->
