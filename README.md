@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=V%C3%ADtor%20Hugo&fontSize=56&fontColor=ffffff&desc=Desenvolvedor%20Full%20Stack&descAlignY=62&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=230&section=header&text=V%C3%ADtor%20Hugo&fontSize=56&fontAlignY=35&fontColor=ffffff&desc=Desenvolvedor%20Full%20Stack&descAlignY=58&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack+%7C+Rio+de+Janeiro;TypeScript+%E2%80%A2+Node.js+%E2%80%A2+React+%E2%80%A2+Next.js;Produtos+SaaS+em+produ%C3%A7%C3%A3o+com+Docker" alt="Typing SVG"/>
 
@@ -26,7 +26,7 @@ Sou **Desenvolvedor Full Stack** no Rio de Janeiro, programando profissionalment
 <div align="center">
 
 **Linguagens**<br/>
-<img src="https://skillicons.dev/icons?i=ts,js,python,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=ts,js,python,java,html,css&theme=dark" />
 
 **Frontend**<br/>
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,materialui&theme=dark" />
