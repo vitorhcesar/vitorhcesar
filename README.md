@@ -48,11 +48,11 @@ Sou **Desenvolvedor Full Stack** no Rio de Janeiro, programando profissionalment
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| 🎟️ **[Raytickets](https://app.raytickets.com)** | SaaS em produção, do backend ao deploy | TypeScript · Node.js · React |
-| 🛒 **[Loja Vitor Cesar](https://loja.vitorhcesar.com.br)** | Loja virtual com área administrativa | TypeScript · Next.js |
+| 🎟️ **[Raytickets](https://app.raytickets.com)** | SaaS em produção, do backend ao deploy | TypeScript · Bun · Elysia · Prisma · PostgreSQL · Socket.IO · React · TanStack Start · Tailwind CSS |
+| 🛒 **[Loja Vitor Cesar](https://loja.vitorhcesar.com.br)** | Loja virtual com área administrativa | TypeScript · React · TanStack Start · Prisma · PostgreSQL · Supabase · Better Auth · Tailwind CSS |
 | 🧠 **[compilador-rayc](https://github.com/vitorhcesar/compilador-rayc)** | Linguagem de programação em português, inspirada na minha esposa Rayssa. Compila `.rayc` para JavaScript (tokenizer → parser → emitter) | TypeScript · Bun |
-| 💼 **[vitorhcesar-portfolio](https://github.com/vitorhcesar/vitorhcesar-portfolio)** | Meu portfólio profissional ([ao vivo](https://portfolio.vitorhcesar.com.br)) | TypeScript · Next.js |
-| 🔗 **[vitorhcesar-links](https://github.com/vitorhcesar/vitorhcesar-links)** | Minha página de links ([ao vivo](https://links.vitorhcesar.com.br)) | TypeScript |
+| 💼 **[vitorhcesar-portfolio](https://github.com/vitorhcesar/vitorhcesar-portfolio)** | Meu portfólio profissional ([ao vivo](https://portfolio.vitorhcesar.com.br)) | TypeScript · React · TanStack Start · Tailwind CSS |
+| 🔗 **[vitorhcesar-links](https://github.com/vitorhcesar/vitorhcesar-links)** | Minha página de links ([ao vivo](https://links.vitorhcesar.com.br)) | TypeScript · React · TanStack Start · Tailwind CSS |
 
 ## 📊 Estatísticas
 
