@@ -5,7 +5,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack+%7C+Rio+de+Janeiro;TypeScript+%E2%80%A2+Node.js+%E2%80%A2+React+%E2%80%A2+Next.js;Produtos+SaaS+em+produ%C3%A7%C3%A3o" alt="Typing SVG"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitorhcesar/)
-[![Site](https://img.shields.io/badge/Site-vitorhcesar.com.br-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.vitorhcesar.com.br)
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio.vitorhcesar.com.br/)
 ![Visitas](https://komarev.com/ghpvc/?username=vitorhcesar&style=for-the-badge&color=2563eb&label=VISITAS)
 
