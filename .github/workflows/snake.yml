@@ -22,7 +22,19 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_background=%230d1117
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Aplicar fundo #0d1117 na versão escura
+        run: |
+          python3 - <<'PY'
+          import re
+          p = "dist/github-contribution-grid-snake-dark.svg"
+          s = open(p).read()
+          x, y, w, h = re.search(r'viewBox="([^"]+)"', s).group(1).split()
+          rect = f'<rect x="{x}" y="{y}" width="{w}" height="{h}" fill="#0d1117"/>'
+          s = s.replace("</desc>", "</desc>" + rect, 1)
+          open(p, "w").write(s)
+          PY
 
       - name: Publicar na branch output
         uses: crazy-max/ghaction-github-pages@v4
