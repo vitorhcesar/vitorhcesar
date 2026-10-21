@@ -1,69 +1,71 @@
-# Hi There 👋 I'm Vítor Hugo
-<ul>
-  <li>📚 Reading "Clean Code" and "Clean Architecture".</li>
-  <li>🧑‍💼 Developer, Freelancer and AI Enthusiast!</li>
-  <li>🔍 Open for dev oportunities!</li>
-  <li>🌎 See my <a href="https://portfolio.vitorhcesar.com.br/" target="_blank">portfolio</a> to contact me!</li>
-</ul>
 <div align="center">
-  <a href="https://github.com/vitorhcesar">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorhcesar&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorhcesar&layout=compact&theme=transparent"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=V%C3%ADtor%20Hugo&fontSize=56&fontColor=ffffff&desc=Desenvolvedor%20Full%20Stack&descAlignY=62&descSize=20" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack+%7C+Rio+de+Janeiro;TypeScript+%E2%80%A2+Node.js+%E2%80%A2+React+%E2%80%A2+Next.js;Produtos+SaaS+em+produ%C3%A7%C3%A3o+com+Docker" alt="Typing SVG"/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitorhcesar/)
+[![Site](https://img.shields.io/badge/Site-vitorhcesar.com.br-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.vitorhcesar.com.br)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio.vitorhcesar.com.br/)
+![Visitas](https://komarev.com/ghpvc/?username=vitorhcesar&style=for-the-badge&color=2563eb&label=VISITAS)
+
 </div>
 
-### Languages:
-  
-  <code><img height="30" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
-  <code><img height="30" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></code>
-  <code><img height="30" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code>
-  <code><img height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
-  <code><img height="30" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"></code>
-  <br></br>
-  <code><img height="30" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></code>
-  <code><img height="30" src="https://img.shields.io/badge/Markdown-FAFAFA?style=for-the-badge&logo=markdown&logoColor=black"></code>
+## 👋 Sobre mim
 
-### Frameworks:
+Sou **Desenvolvedor Full Stack** no Rio de Janeiro, programando profissionalmente desde **2021** e cursando o **8º período de Ciência da Computação**. Trabalho há mais de 2 anos com **Node.js e React**, construindo produtos do banco de dados ao deploy.
 
-  <code><img height="30" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code>
-  <code><img height="30" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></code>
-  <code><img height="30" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"></code>
-  <code><img height="30" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code>
-  <br></br>
-  <code><img height="30" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"></code>
-  <code><img height="30" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></code>
-  <code><img height="30" src="https://img.shields.io/badge/Django-171717?style=for-the-badge&logo=Django&logoColor=white"></code>
-  <code><img height="30" src="https://img.shields.io/badge/Flask-171717?style=for-the-badge&logo=Flask&logoColor=white"></code>
-  <br></br>
-  <code><img height="30" src="https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=Tauri&logoColor=blue"></code>
-  <code><img height="30" src="https://img.shields.io/badge/Electron-2a2d38?style=for-the-badge&logo=Electron&logoColor=blue"></code>
-  <code><img height="30" src="https://img.shields.io/badge/Tailwindcss-007FFF?style=for-the-badge&logo=tailwindcss&logoColor=white"></code>
+- 🚀 Crio e mantenho SaaS em produção, como o **[Raytickets](https://app.raytickets.com)** e o **PlanejaPost**, rodando com **Docker**
+- 🧪 Escrevo testes com **Jest, Vitest e bun:test**
+- 🧠 Estudando compiladores no **[Rayc](https://github.com/vitorhcesar/compilador-rayc)**, uma linguagem de programação em português
+- 📚 Lendo *Clean Code* e *Clean Architecture*
+- 🔍 Aberto a oportunidades como desenvolvedor
 
-### Backend:
+## 🛠️ Stack
 
-  <code><img height="30" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></code>
-  <code><img height="30" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"></code>
-  <code><img height="30" src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white"></code>
-  <br></br>
-  <code><img height="30" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"></code>
-  <code><img height="30" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></code>
-  <code><img height="30" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></code>
+<div align="center">
 
-### OS:
+**Linguagens**<br/>
+<img src="https://skillicons.dev/icons?i=ts,js,python,html,css&theme=dark" />
 
-  <code><img height="30" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></code>
-  <code><img height="30" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></code>  
-  <!--
-  <code><img height="30" src="https://img.shields.io/badge/Mac-000000?style=for-the-badge&logo=MacOS&logoColor=white"></code>  
-  -->
+**Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,materialui&theme=dark" />
+![TanStack Start](https://img.shields.io/badge/TanStack_Start-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white)
 
-### Other:
+**Backend & Dados**<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,bun,express,fastapi,prisma,supabase,postgres,mongodb,mysql&theme=dark" />
 
-  <div style="padding: 0; margin: 0;">
-    <code><img height="30" src="https://img.shields.io/badge/Stripe-0078D6?style=for-the-badge&logo=stripe&logoColor=white"></code>
-    <code><img height="30" src="https://img.shields.io/badge/Shadcn/ui-323232?style=for-the-badge&logo=shadcnui&logoColor=white"></code>  
-    <code><img height="30" src="https://img.shields.io/badge/Docker-0078D6?style=for-the-badge&logo=docker&logoColor=white"></code>  
-  </div>
-  <br></br>
-  <code><img height="30" src="https://img.shields.io/badge/OpenAI-323232?style=for-the-badge&logo=openai&logoColor=white"></code>  
-  <code><img height="30" src="https://img.shields.io/badge/Anthropic-323232?style=for-the-badge&logo=anthropic&logoColor=white"></code>  
-  <code><img height="30" src="https://img.shields.io/badge/Langchain-323232?style=for-the-badge&logo=langchain&logoColor=white"></code>  
+**DevOps, testes & ferramentas**<br/>
+<img src="https://skillicons.dev/icons?i=docker,vercel,jest,vitest,git,github,linux&theme=dark" />
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+
+</div>
+
+## 🚀 Projetos em destaque
+
+| Projeto | Descrição | Stack |
+|---|---|---|
+| 🎟️ **[Raytickets](https://app.raytickets.com)** | SaaS em produção, do backend ao deploy com Docker | TypeScript · Node.js · React · Docker |
+| 🛒 **[Loja Vitor Cesar](https://loja.vitorhcesar.com.br)** | Loja virtual com área administrativa | TypeScript · Next.js |
+| 🧠 **[compilador-rayc](https://github.com/vitorhcesar/compilador-rayc)** | Linguagem de programação em português, inspirada na minha esposa Rayssa. Compila `.rayc` para JavaScript (tokenizer → parser → emitter) | TypeScript · Bun |
+| 💼 **[vitorhcesar-portfolio](https://github.com/vitorhcesar/vitorhcesar-portfolio)** | Meu portfólio profissional ([ao vivo](https://portfolio.vitorhcesar.com.br)) | TypeScript · Next.js |
+| 🔗 **[vitorhcesar-links](https://github.com/vitorhcesar/vitorhcesar-links)** | Minha página de links ([ao vivo](https://links.vitorhcesar.com.br)) | TypeScript |
+
+## 📊 Estatísticas
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vitorhcesar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br"/>
+<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vitorhcesar&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br"/>
+
+<img src="https://streak-stats.demolab.com?user=vitorhcesar&theme=tokyonight&hide_border=true&locale=pt_BR" />
+
+**Contribuições no último ano**<br/>
+<img width="100%" src="https://ghchart.rshah.org/2563eb/vitorhcesar" alt="Gráfico de contribuições" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer" width="100%"/>
