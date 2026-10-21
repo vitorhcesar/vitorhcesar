@@ -64,7 +64,11 @@ Sou **Desenvolvedor Full Stack** no Rio de Janeiro, programando profissionalment
 <img src="https://streak-stats.demolab.com?user=vitorhcesar&theme=tokyonight&hide_border=true&locale=pt_BR" />
 
 **Contribuições no último ano**<br/>
-<img width="100%" src="https://ghchart.rshah.org/2563eb/vitorhcesar" alt="Gráfico de contribuições" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vitorhcesar/vitorhcesar/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vitorhcesar/vitorhcesar/output/github-contribution-grid-snake.svg" />
+  <img width="100%" alt="Cobrinha comendo minhas contribuições" src="https://raw.githubusercontent.com/vitorhcesar/vitorhcesar/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
